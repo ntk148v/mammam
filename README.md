@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Măm măm</h1>
-	<blockquote align="center">My food collection powered by [Hugo](https://gohugo.io), [Cuisine-book theme](https://github.com/ntk148v/hugo-cuisine-book) and Github Pages.</blockquote>
+	<blockquote align="center">My food collection powered by <a href="https://gohugo.io">Hugo</a>, <a href="https://github.com/ntk148v/hugo-cuisine-book">Cuisine-book theme</a> and Github Pages.</blockquote>
 	<p>
 		<a href="https://github.com/ntk148v/mammam/blob/master/LICENSE">
 			<img alt="GitHub license" src="https://img.shields.io/github/license/ntk148v/mammam?style=for-the-badge">
