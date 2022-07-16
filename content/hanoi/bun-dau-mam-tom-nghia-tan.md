@@ -10,3 +10,6 @@ description = ""
 - 104 C3 P. Nghĩa Tân, Nghĩa Tân, Cầu Giấy, Hà Nội
 
 ## Đánh giá
+
+- Ngon, đầy đặn.
+- Giá 45k/suất đẩy đủ.
