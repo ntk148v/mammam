@@ -5,6 +5,7 @@ tags = ["biahoi", "hanoi"]
 featured_image = "images/biahoithuhang.jpg"
 description = ""
 rating = 2
+comment = true
 +++
 
 ## Địa chỉ

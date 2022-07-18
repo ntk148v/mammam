@@ -1,0 +1,7 @@
+{{- if or (eq .Params.comments true) (and (ne .Params.comments false) (eq site.Params.comments.enable true)) -}}
+<section class="container">
+    <script src="https://utteranc.es/client.js" repo="ntk148v/mammam" issue-term="pathname" theme="github-light"
+        crossorigin="anonymous" async>
+    </script>
+</section>
+{{- end -}}

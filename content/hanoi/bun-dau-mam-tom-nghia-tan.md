@@ -4,6 +4,7 @@ tags = ["bundaumamtom", "hanoi"]
 featured_image = "https://channel.mediacdn.vn//E5dI0y3SoVrXIOTZqSfAuvUQ4vGwqv/Image/2014/03/1_ebeae.jpg"
 description = ""
 rating = 4
+comment = true
 +++
 
 ## Địa chỉ
