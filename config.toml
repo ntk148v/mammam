@@ -7,3 +7,4 @@ theme = "cuisine-book"
   author = "Kien Nguyen Tuan"
   description = "Măm Măm"
   logo = "SeekPng.com_doughnut-png_4429089.png"
+  comment = true
