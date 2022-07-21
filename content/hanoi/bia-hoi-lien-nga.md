@@ -1,13 +1,13 @@
-+++
-title = "Bia hơi Liên Nga"
-date = 2022-07-18T08:07:20+07:00
-tags = ["biahoi", "hanoi"]
-featured_image = "https://fastly.4sqi.net/img/general/width960/10819764_RLEcQpPrdPhxsuRpPFtKHL0_gTepkIHG02RXLHNjXR4.jpg"
-description = ""
-rating = 1
-comment = true
-website = ""
-+++
+---
+title: "Bia hơi Liên Nga"
+date: "2022-07-18T08:07:20+07:00"
+tags: ["biahoi", "hanoi"]
+featured_image: "https://fastly.4sqi.net/img/general/width960/10819764_RLEcQpPrdPhxsuRpPFtKHL0_gTepkIHG02RXLHNjXR4.jpg"
+description: ""
+rating: 1
+comment: true
+website: ""
+---
 
 ## Địa chỉ
 
