@@ -2,6 +2,7 @@ baseURL = "https://ntk148v.github.io/mammam"
 languageCode = "en-us"
 title = "Măm Măm"
 theme = "cuisine-book"
+enableGitInfo = true
 
 [params]
   author = "Kien Nguyen Tuan"
