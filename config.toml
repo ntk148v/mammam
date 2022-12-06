@@ -9,3 +9,14 @@ enableGitInfo = true
   description = "Măm Măm"
   logo = "SeekPng.com_doughnut-png_4429089.png"
   comment = true
+  # Set source repository location.
+  repo = 'https://github.com/ntk148v/mammam'
+  # Enable 'Edit' links.
+  # Disabled by default. Uncomment to enable. Requires 'repo' param.
+  # Path must point to the site directory.
+  editpath = 'edit/master'
+  # Enable 'Add' links.
+  # Disabled by default. Uncomment to enable. Requires 'repo' param.
+  # Path must point to the site directory.
+  newpath = 'new/master'
+
