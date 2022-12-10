@@ -2,8 +2,8 @@
 title: "Bún bò Huế Nguyễn Ngọc Vũ"
 date: "2022-12-10T11:51:09+07:00"
 tags: ["hanoi", "bunbohue"]
-featured_image: ""
-description: "https://hotel84.com/hotel84-images/news/photo/bun-bo-hue-quan-quan.jpg"
+featured_image: "https://hotel84.com/hotel84-images/news/photo/bun-bo-hue-quan-quan.jpg"
+description: ""
 rating: 4
 comment: true
 website: ""
