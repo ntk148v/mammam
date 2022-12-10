@@ -1,6 +1,6 @@
 ---
 title: "Bánh cuốn Phạm Ngọc Thạch"
-date: "2022-12-11T10:55:09+07:00"
+date: "2022-12-10T10:55:09+07:00"
 tags: ["hanoi", "banhcuon"]
 featured_image: "https://static.riviu.co/960/image/2021/03/20/e207de492c4e60fefc70c15efaa31c43_output.jpeg"
 description: ""
