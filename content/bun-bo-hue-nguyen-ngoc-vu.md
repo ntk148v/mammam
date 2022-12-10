@@ -1,5 +1,5 @@
 ---
-title: "Bánh cuốn Phong Phú - 50 Đội Cấn"
+title: "Bún bò Huế Nguyễn Ngọc Vũ"
 date: "2022-12-10T11:51:09+07:00"
 tags: ["hanoi", "bunbohue"]
 featured_image: ""
