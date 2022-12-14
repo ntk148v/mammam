@@ -22,13 +22,13 @@
 - You might need Hugo extened version for development.
 - Fork this repository and get your fork.
 
-```bash
+```shell
 git clone https://github.com/<your-username>/mammam.git
 ```
 
 - Using Hugo command line to create new post. The new post's name should be your restaurant name.
 
-```bash
+```shell
 hugo new content/hanoi/<your-restaurant>.md
 # For example
 hugo new content/hanoi/pizza-4p-phan-ke-binh.md
@@ -36,10 +36,12 @@ hugo new content/hanoi/pizza-4p-phan-ke-binh.md
 
 - Or simple just copy the existing post.
 
-```bash
+```shell
 cp content/hanoi/content/hanoi/bia-hoi-thu-hang.md content/hanoi/<your-restaurant>.md
 ```
 
 - Submit your changes and open a new request.
 
 ## 2. Contributors
+
+- [Me, myself and I](https://github.com/ntk148v)
