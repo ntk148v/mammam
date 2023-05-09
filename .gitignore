@@ -3,3 +3,4 @@ node_modules/
 resources/
 .vscode/
 .hugo_build.lock
+.idea
