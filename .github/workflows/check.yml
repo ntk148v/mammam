@@ -23,11 +23,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "18"
-          cache: "npm"
-          cache-dependency-path: package-lock.json
+        uses: actions/setup-node@v5
 
       - name: Check broken links
         run: find content/*.md -exec npx markdown-link-check {} \;
